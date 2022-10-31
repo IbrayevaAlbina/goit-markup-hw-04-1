@@ -358,7 +358,10 @@ img {
 }
 
 .contacts-social-icon {
-  fill:#000000;
+  fill: orange;
+}
+.contacts-social-link {
+  fill:orange;
 }
 
 /* footer */
